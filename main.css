@@ -41,7 +41,6 @@ form {
 }
 
 form input {
-    color: #fff;
     font-size: 24px;
     border: none;
     border-bottom: 2px solid #000;
@@ -60,6 +59,7 @@ form button {
 
 table {
     width: 100%;
+    border-spacing: 00;
 }
 
 table th {
